@@ -13,6 +13,7 @@
 		480A1A7C25B782F200185C41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 480A1A7A25B782F200185C41 /* Main.storyboard */; };
 		480A1A7E25B782F600185C41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 480A1A7D25B782F600185C41 /* Assets.xcassets */; };
 		480A1A8125B782F600185C41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 480A1A7F25B782F600185C41 /* LaunchScreen.storyboard */; };
+		480A1AEA25B8A9C700185C41 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 480A1AE925B8A9C700185C41 /* data.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		480A1A7D25B782F600185C41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		480A1A8025B782F600185C41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		480A1A8225B782F600185C41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		480A1AE925B8A9C700185C41 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		480A1A7325B782F200185C41 /* Basic JSON */ = {
 			isa = PBXGroup;
 			children = (
+				480A1AE925B8A9C700185C41 /* data.json */,
 				480A1A7425B782F200185C41 /* AppDelegate.swift */,
 				480A1A7625B782F200185C41 /* SceneDelegate.swift */,
 				480A1A7825B782F200185C41 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				480A1A8125B782F600185C41 /* LaunchScreen.storyboard in Resources */,
 				480A1A7E25B782F600185C41 /* Assets.xcassets in Resources */,
 				480A1A7C25B782F200185C41 /* Main.storyboard in Resources */,
+				480A1AEA25B8A9C700185C41 /* data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
